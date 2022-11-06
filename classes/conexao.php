@@ -1,9 +1,9 @@
 <?php 
 
 class conectar{
-	private $servidor = "localhost:3308";
+	private $servidor = "localhost";
 	private $usuario = "root";
-	private $senha = "1234";
+	private $senha = "";
 	private $bd = "cadastro";
 
 	public function conexao(){
