@@ -1,0 +1,14 @@
+Projeto para teste em processo seletivo.
+
+
+Este projeto é um sistema de vendas, com cadastro de Clientes, Fornecedores, produtos, e vendas.
+
+Astecnologias usadas foram:
+
+Xampp: ferramenta para subir um servidor apache.
+MySql(myphpadmin): para o banco de dados.
+algumas bibliotecas como: bootstrap, dompdf, select2, alertfy
+JavaScript.
+PhpStorm: para o desenvolvimento do projeto.
+
+Espero atender o recomendado.
